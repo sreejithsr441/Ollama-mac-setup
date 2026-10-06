@@ -15,7 +15,7 @@ Tested setup: see [TESTED.md](TESTED.md).
 ## Quick start
 
 ```bash
-git clone https://github.com/<you>/ring-zero-examples.git
+git clone https://github.com/sreejithsr441/Ollama-mac-setup.git
 cd ring-zero-examples/ollama-mac-setup
 ./setup.sh      # checks your Mac, installs/starts Ollama, downloads the model
 ./verify.sh     # runs a test prompt and measures speed
