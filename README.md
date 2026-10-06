@@ -1,6 +1,6 @@
 # Run a Local LLM on Your Mac with Ollama (2026 Setup)
 
-Companion code for the Ring Zero video **[How to Run a Local LLM on Your Mac with Ollama (2026 Setup)](https://youtube.com/@ringzero)** <!-- TODO: replace with the video URL -->
+Companion code for the Ring Zero video **[How to Run a Local LLM on Your Mac with Ollama (2026 Setup)](https://www.youtube.com/@RingZero-l5v)** <!-- TODO: replace with the video URL -->
 
 Your own AI, running on your Mac, even with the Wi-Fi off. Free, no account, about four commands.
 
